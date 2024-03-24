@@ -1,0 +1,16 @@
+body {
+	background-color: #7891ad;
+}
+
+.logo {
+	height: 35px;
+}
+
+.titolo {
+	font-size: 32px;
+}
+
+.paragrafo {
+	font-size: 15px;
+	line-height: 1.5;
+}
