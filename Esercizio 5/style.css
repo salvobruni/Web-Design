@@ -1,0 +1,15 @@
+@media only screen and (max-width: 600px) {
+    h1 {
+      color: rgb(88, 8, 216);
+    }
+  }
+  
+  img {
+      width: 100%;
+  }
+  
+  @media only screen and (max-width: 800px) {
+    img {
+      width: 49%;
+    }
+  }
