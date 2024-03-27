@@ -1,0 +1,69 @@
+p, a, h1 {
+    font-family: "Playfair Display", serif;
+    color: #000000;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#tribute-info {
+    font-family: "Playfair Display", serif;
+    color: #222121;
+    margin-bottom: 40px;
+}
+
+h2 {
+    font-family: "Playfair Display", serif;
+    font-weight: 600;
+    color: #222;
+    margin-top: 40px;
+}
+
+#img-div {
+    text-align: center;
+}
+
+main {
+    margin: 50px;
+    box-sizing: border-box ;
+    padding: 0;
+}
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+figcaption {
+    color:red
+}
+
+body {
+    background-color: #afa0d4;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titolo {
+text-align: center;
+font-size: 60px;
+}
+
+#tribute-info {
+font-size: 20px 
+}
+
+#tribute-link {
+    color: blue;
+    font-size: 20px;
+}
+
+a {
+    text-align: center;
+}
